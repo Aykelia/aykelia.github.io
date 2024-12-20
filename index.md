@@ -32,5 +32,7 @@ kinase are the ones that contribute the most to human operations (thanks for the
 
 # A Match Made In Heaven 
 
+<iframe src="assets/plots/reduction_plots_full.html"></iframe>
+
 
 # Special space for special guests
